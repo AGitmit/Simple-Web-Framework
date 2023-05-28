@@ -1,5 +1,5 @@
 # Simple-Web-Framework
-an educational purpose repo containing a simple project of creating the backbone of a functional web framework for REST API.
+an educational purpose repo containing a simple project of creating the backbone of a functional web framework.
 
 ## Building a Simple Web Framework in Python: Understanding the Fundamentals.
 
